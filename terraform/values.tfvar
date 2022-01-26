@@ -1,0 +1,7 @@
+region="us-east-2"
+accountId="******"
+http_methods=["GET","POST"]
+rest_api="pythonAPI"
+resource_name="Osama"
+code_path="../code/prog.py"
+
